@@ -1,10 +1,18 @@
 Crie um arquivo questoes.txt, dentro do mesmo projeto, e responda as questões abaixo:
 
 O que é um repositório no Git e qual a sua importância?
+ É um diretório  que armazena arquivos, códigos e histórico de revisão de um projeto; é importante para 
+centralizar o versionamento, o compartilhamento e a colaboração de código.
+
 Qual a função do Git Bash?
+ Ele é um app que permite o funcionamento de comandos do Git e Linux, além de ser quem interpreta as 
+linhas de comando dos anteriores. Suas principais funções são: criar e atualizar repositórios, gerenciar
+alterações, explorar histórico, entre outros. 
+
+
 O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
 Por que utilizamos o ponto (.) no comando git add .?
-Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+Explique o comando git commit e por que é importante criar uma mensagem descritiva. 
 Qual a função do comando git push?
 Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
 Explique a função das tags HTML e como elas estruturam uma página.
