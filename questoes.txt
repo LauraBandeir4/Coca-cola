@@ -1,19 +1,14 @@
 Crie um arquivo questoes.txt, dentro do mesmo projeto, e responda as questões abaixo:
 
 O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
-Ele serve para adicionar, a diferença entre eles é que o "git add <arquivo>" 
-adiciona um arquivo específico enquanto o "git add ." todos os arquivos novos e 
-modificados de um diretório.
+Ele serve para adicionar, a diferença entre eles é que o "git add <arquivo>" adiciona um arquivo específico enquanto o "git add ." todos os arquivos novos e modificados de um diretório.
 
 Por que utilizamos o ponto (.) no comando git add .?
 Porque ele serve para adicionar todas as modificações realizadas de uma vez.
 
 
 Explique o comando git commit e por que é importante criar uma mensagem descritiva.
-Git commit é um marco, ou seja, ele vai mostrar uma nova versão de algo e precisa ser
-descritivo para ser fácil de entender futuramente, não só para o desenvolvedor, mas 
-para quem olhar os commits, são muito importantes principalmente para projetos feitos
-em grupo, para que todos entendam o que foi feito. 
+Git commit é um marco, ou seja, ele vai mostrar uma nova versão de algo e precisa ser descritivo para ser fácil de entender futuramente, não só para o desenvolvedor, mas para quem olhar os commits, são muito importantes principalmente para projetos feitos em grupo, para que todos entendam o que foi feito. 
 
 
 Qual a função do comando git push?
@@ -21,56 +16,43 @@ Sua função é a de enviar os commits de um repositório local para um remoto.
 
 
 Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
-Para facilitar caso haja algum bug, além de ter menos diferença entre cada commit, 
-ajudando o trabalho em grupo, reverter mudanças e outros. 
+Para facilitar caso haja algum bug, além de ter menos diferença entre cada commit, ajudando o trabalho em grupo, reverter mudanças e outros. 
 
 
 Explique a função das tags HTML e como elas estruturam uma página.
-Elas definem a estrutura e o conteúdo da página, são usadas para criar títulos, 
-parágrafos, imagens, links, entre outros.
+Elas definem a estrutura e o conteúdo da página, são usadas para criar títulos, parágrafos, imagens, links, entre outros.
 
 
 O que são atributos em uma tag HTML e qual a sua função?
- São informações adicionais que modificam o comportamento, a aparência e a
- funcionalidade dos elementos HTML, personalizando-as. 
+ São informações adicionais que modificam o comportamento, a aparência e a funcionalidade dos elementos HTML, personalizando-as. 
 
 
 O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
-É um facilitador de escrita de códigos, otimizando tempo de escrita evitando e diminuindo 
-erros de  digitação.    
+É um facilitador de escrita de códigos, otimizando tempo de escrita evitando e diminuindo erros de  digitação.    
 
 
 O que é o box-sizing no CSS e por que usamos ele no reset inicial?
-É uma propriedade que altera como são calculadas as larguras
-e alturas dos elementos, é usado em no reset inicial porque irá resetar todos os elementos.
+É uma propriedade que altera como são calculadas as larguras e alturas dos elementos, é usado em no reset inicial porque irá resetar todos os elementos.
 
 
 Por que é importante utilizar tags semânticas no HTML?
-Porque melhoram a acessibilidade, otimização para mecanismos e manutenção 
-de código. 
+Porque melhoram a acessibilidade, otimização para mecanismos e manutenção de código. 
 
 
 O que são media queries no CSS e qual a sua função?
-São um módulo de CSS que definem expressões, a uma variedade específica de
-dispositivos de saída sem mudar o conteúdo, adaptando a apresentação de um
-site em diferentes dispositivos.
+São um módulo de CSS que definem expressões, a uma variedade específica de dispositivos de saída sem mudar o conteúdo, adaptando a apresentação de um site em diferentes dispositivos.
 
 
 Qual a função do GitHub Pages?
-Ele hospeda sites pessoas, de empresas ou organizações, publica projetos
-em código aberto, compartilha currículos e hospeda blogs.
+Ele hospeda sites pessoas, de empresas ou organizações, publica projetos em código aberto, compartilha currículos e hospeda blogs.
 
 
 O que é o Flexbox no CSS e para que ele é utilizado?
-Ferramenta que permite a organização de elementos em um layout, de maneira 
-flexível. É utilizado para criar layouts responsivos, distribui espaço entre 
-os itens, ajusta a disposição e espaçamento de elementos e garante experiência
-consistente em diferentes dispositivos. 
+Ferramenta que permite a organização de elementos em um layout, de maneira flexível. É utilizado para criar layouts responsivos, distribui espaço entre os itens, ajusta a disposição e espaçamento de elementos e garante experiênciaconsistente em diferentes dispositivos. 
 
 
 Qual a diferença entre justify-content e align-items em um container Flexbox?
- Justify-content: controla o alinhamento no eixo principal;
- Align-items: controla o alinhamento no eixo transversal.
+ Justify-content: controla o alinhamento no eixo principal;   Align-items: controla o alinhamento no eixo transversal.
 
 Como o flex-grow funciona e qual o seu propósito no layout Flexbox? (Voltar)
  Flex-grow: sua função é controlar como os itens crescem dentro de uma flexbox, ocupando o espaço disponível dentro de um container.
